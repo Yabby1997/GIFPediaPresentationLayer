@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "gifpediaservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Yabby1997/GIFPediaService",
+      "state" : {
+        "revision" : "bb73949ce906ad64e67d0541600954c6c77de868",
+        "version" : "0.4.2"
+      }
+    }
+  ],
+  "version" : 2
+}
